@@ -1,0 +1,5 @@
+com\aoher\service\TranslationEngineJUnit4ParameterizedTest.class
+com\aoher\service\TranslatorEngineTest.class
+com\aoher\service\TranslationEngineAnnotationParameterizedTest.class
+com\aoher\service\TranslationEngineJUnit5ParameterizedTest.class
+com\aoher\service\TranslationEngineDynamicTest.class
